@@ -250,13 +250,13 @@ Submission Date: June 16, 2026
 
 For questions, issues, or suggestions:
 - Create an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: sheikhmehrali5@gmail.com
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Wine Quality Dataset: UCI Machine Learning Repository
 - Analysis methodology: Best practices in EDA
