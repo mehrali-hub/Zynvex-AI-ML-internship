@@ -1,4 +1,3 @@
-
 # 🚗 Used Car Price Prediction
 
 **An end-to-end regression pipeline that predicts used car resale prices from vehicle specifications.**
