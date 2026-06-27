@@ -1,4 +1,4 @@
-# 🍷 Wine Quality EDA | Mehr Ali
+# 🍷 Wine Quality EDA 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
