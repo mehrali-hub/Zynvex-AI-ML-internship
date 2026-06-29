@@ -22,7 +22,7 @@
 This project applies a **systematic machine learning workflow** to predict telecom customer churn using a 440,833-row dataset. Five classifiers are rigorously compared — Logistic Regression, KNN, Decision Tree, Random Forest, and SVM — using cross-validation, GridSearchCV tuning, and a held-out test evaluation. A final business recommendation is derived from both statistical performance and real-world cost considerations.
 
 > **Course:** Machine Learning · Weekend Assignment 3  
-> **Author:** Mehr Ali | [GitHub](https://github.com/mehrali-hub) · [Kaggle](https://kaggle.com/mehralieng)
+> **Author:** Mehr Ali | [GitHub](https://github.com/Astreonix) · [Kaggle](https://kaggle.com/mehralieng)
 
 ---
 
